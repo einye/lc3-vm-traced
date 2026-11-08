@@ -21,7 +21,7 @@ gcc lc3.c -o lc3
 gcc -Wall -Wextra -O2 lc3.c -o lc3
 
 # Usage
-./lc3 <image-file1.obj>
+./lc3 build/<image-file1.obj>
 ```
 ## Acknowledgements
 
